@@ -6,7 +6,7 @@ from flask import request
 from flask import jsonify
 
 model_file = 'logreg-v2.bin'
-with open(f"./model/{model_file}", 'rb') as file_in:
+with open(f"./{model_file}", 'rb') as file_in:
      model = dill.load(file_in)
 
 app = Flask('churn')
