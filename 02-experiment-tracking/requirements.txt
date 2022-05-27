@@ -1,0 +1,16 @@
+numpy==1.22.3
+pandas==1.4.2
+matplotlib==3.5.2
+seaborn==0.11.2
+scikit-learn==1.1.0
+xgboost==1.6.1
+mlflow==1.26.0
+boto3==1.23.8
+dill==0.3.5.1
+fastparquet==0.8.1
+Flask==2.1.2
+hyperopt==0.2.7
+inflection==0.5.1
+jupyter==1.0.0
+jupyterlab==3.4.2
+

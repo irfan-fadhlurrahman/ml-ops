@@ -1,0 +1,11 @@
+1. Create Dockerfile
+2. Build a container
+	docker build -t <tag-name> .
+   Notes: remember to put
+     Dockerfile Pipfile Pipfile.lock <script>.py <model>.bin
+   in the same directory
+
+3. Run the container with bash
+	docker run -it --entrypoint=bash <tag-name>:latest
+
+
