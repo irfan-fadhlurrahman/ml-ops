@@ -12,4 +12,4 @@ hyperopt==0.2.7
 inflection==0.5.1
 jupyter==1.0.0
 jupyterlab==3.4.2
-
+protobuf==3.20.1
