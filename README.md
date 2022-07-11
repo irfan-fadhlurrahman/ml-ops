@@ -6,3 +6,4 @@
 ## Pre-requisites
 ## Module 1: Introduction
 ## Module 2: Experiment Tracking and Model Registry
+## Module 3: Orchestration and ML Pipelines
