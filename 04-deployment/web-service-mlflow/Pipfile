@@ -9,6 +9,7 @@ fastparquet = "==0.8.1"
 flask = "*"
 gunicorn = "*"
 scikit-learn = "==1.1.0"
+mlflow = "==1.26.0"
 
 [dev-packages]
 
