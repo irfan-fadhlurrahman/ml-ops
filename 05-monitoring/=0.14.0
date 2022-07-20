@@ -1,0 +1,4 @@
+Collecting pyrsistent
+  Using cached pyrsistent-0.18.1-cp39-cp39-win_amd64.whl (61 kB)
+Installing collected packages: pyrsistent
+Successfully installed pyrsistent-0.18.1
